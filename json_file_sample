@@ -8,7 +8,7 @@
     },
     "image": { 
         "src": "Images/Sun.png",
-        "name": "sun1",
+        "name": "[B@15db9742",
         "hOffset": 250,
         "vOffset": 250,
         "alignment": "center"
